@@ -3,6 +3,7 @@
 
 
 # :bust_in_silhouette: About Me:
+- Currently taking the Fullstack Pogramm at 4Geeks Academy. React, Python, Flask, SQLALquemy, Agile.
 - Web Developer with a passion for problem solving and destructuring logic.
 - Currently completing an intensive full-stack coding bootcamp at 4Geeks Academy covering front and back-end languages.
 - Proficient in Javascript, React js, Vue js, Git, CSS, SASS and Html.
