@@ -3,9 +3,10 @@
 
 
 # :bust_in_silhouette: About Me:
-- Currently completing an intensive full-stack coding bootcamp at 4Geeks Academy covering front and back-end languages.
+- Just completed an intensive full-stack coding bootcamp at 4Geeks Academy covering front and back-end languages.
 - Web Developer with a passion for problem solving and destructuring logic.
 - Proficient in Javascript, React js, Vue js, Git, CSS, SASS and Html.
+- -Intermediate level in Python, Flask, SQLAlchemy
 - Great interest in unit and integration testing.
 - Dedicated and determined to remain up-to-date with the latest web development tools and trends.
 
