@@ -1,28 +1,60 @@
-<h1 align="center"><b>Hi , I'm El Hadj Arroyo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Aroyostack
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-16.13.1-blue?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-3.0.0-green?style=for-the-badge&logo=vue.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.0.5-blue?style=for-the-badge&logo=typescript)
+![Jest](https://img.shields.io/badge/Jest-27.3.1-red?style=for-the-badge&logo=jest)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-12.0.2-blue?style=for-the-badge&logo=react)
+![CSS](https://img.shields.io/badge/CSS3-#1572B6?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2.2.15-blue?style=for-the-badge&logo=tailwind-css)
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap%205-5.5.1-purple?style=for-the-badge&logo=bootstrap)
+![Python](https://img.shields.io/badge/Python-3.9.2-blue?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-2.1.0-green?style=for-the-badge&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-8.0.25-blue?style=for-the-badge&logo=mysql)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1.4.23-green?style=for-the-badge&logo=python)
 
+# **👋 About Me**
 
+Hi there! 👋 I'm a El Hadj Arroyo, a dedicated developer with around two years of experience in the world of software development. I've honed my skills through freelance work, primarily focusing on WordPress and React js templates customization. My true love lies in the fascinating realm of JavaScript and its ecosystem.
 
-# :bust_in_silhouette: About Me:
-- Just completed an intensive full-stack coding bootcamp at 4Geeks Academy covering front and back-end languages.
-- Web Developer with a passion for problem solving and destructuring logic.
-- Proficient in Javascript, React js, Vue js, Git, CSS, SASS and Html.
-- -Intermediate level in Python, Flask, SQLAlchemy
-- Great interest in unit and integration testing.
-- Dedicated and determined to remain up-to-date with the latest web development tools and trends.
+💼 **Professional Experience**
 
+- 💻 Two years of freelance work, specializing in WordPress customization.
+- 🚀 Constantly exploring and expanding my knowledge in software architecture.
+- 🧪 Strong advocate for solid principles, code reusability, and best practices in testing.
+- 📚 Always staying up-to-date with the latest technologies and trends.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elhadjarroyo/) 
+# **💻 Frontend Technologies**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)  
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) 
+I thrive in the frontend world and bring to the table a diverse set of skills and tools:
 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap 5](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+- 💡 JavaScript
+- ⚛️ React
+- ⚛️ Vue js
+- 📘 TypeScript
+- 🃏 Jest
+- 🌈 Tailwind CSS
+- 🅱️ Bootstrap 5
+- 🎨 HTML & CSS
+- 🧰 Developer Tools like Postman and Chrome React, Redux, Developers Tools
+- 📦 Git and GitHub Workflows
 
+# **🚀 FullStack Journey**
+
+Recently, I successfully completed a FullStack Bootcamp at 4geeks Academy, further enriching my knowledge and skill set. Now, I'm proficient in both frontend and backend technologies:
+
+- 🌐 **Backend Technologies**
+    - 🐍 Python
+    - 🌿 Flask
+    - 🗃️ MySQL
+    - 💼 SQLAlchemy
+
+I'm enthusiastic about creating efficient and elegant solutions, whether it's in the frontend or the backend. 🌟
+
+# **🌟 Let's Connect**
+
+I'm always eager to collaborate, learn, and create amazing software. If you're as passionate about coding as I am, let's connect and make something awesome together! Feel free to explore my GitHub repositories to see some of my work in action. 🚀
+
+📫 **Contact me:** [a](mailto:YourEmail@example.com)rroyostack@gmail.com
+
+Let's build the future, one line of code at a time. 🌠
