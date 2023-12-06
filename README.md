@@ -15,7 +15,7 @@
 
 💼 **Professional Experience**
 
-- 💻 Two years of freelance work, specializing.
+- 💻 Two years of freelance work.
 - 🚀 Constantly exploring and expanding my knowledge in software architecture.
 - 🧪 Strong advocate for solid principles, code reusability, and best practices in testing.
 - 📚 Always staying up-to-date with the latest technologies and trends.
