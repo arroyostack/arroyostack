@@ -29,6 +29,7 @@ Hi there! 👋 I'm a El Hadj Arroyo, a dedicated developer with around two years
 I thrive in the frontend world and bring to the table a diverse set of skills and tools:
 
 - 💡 JavaScript
+- 📦 Node js
 - ⚛️ React
 - ⚛️ Vue js
 - 📘 TypeScript
@@ -44,10 +45,10 @@ I thrive in the frontend world and bring to the table a diverse set of skills an
 Recently, I successfully completed a FullStack Bootcamp at 4geeks Academy, further enriching my knowledge and skill set. Now, I'm proficient in both frontend and backend technologies:
 
 - 🌐 **Backend Technologies**
-    - 🐍 Python
-    - 🌿 Flask
-    - 🗃️ MySQL
-    - 💼 SQLAlchemy
+- Node js
+- Express
+- Mongo DB
+- 💼 SQLAlchemy
 
 I'm enthusiastic about creating efficient and elegant solutions, whether it's in the frontend or the backend. 🌟
 
