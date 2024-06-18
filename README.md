@@ -1,5 +1,5 @@
 # Aroyostack
-**Frontend**: 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -10,27 +10,24 @@
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Backend**: 
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
 
-**Databases**:  
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Typeorm](https://img.shields.io/badge/-Typeorm-black?style=flat-square&logo=typeorm)
-
-**DevOps**: 
+ 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-ED8B00?style=flat-square)
 
-**Testing**: 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-4FC08D?style=flat-square)
 ![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-**Other**: 
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-8B8B8B?style=flat-square)
 ![TanStack](https://img.shields.io/badge/-TanStack-ED8B00?style=flat-square)
 ![I18n](https://img.shields.io/badge/-I18n-007ACC?style=flat-square)
@@ -61,6 +58,8 @@
     - Progressed from building WordPress sites to developing complex web applications using JavaScript and its ecosystem.
     - Collaborated with clients to deliver tailored, responsive, and user-friendly websites using HTML, CSS, and JavaScript.
     - Gained basic to intermediate backend development skills while leveraging React and Vue.js for dynamic user interfaces.
+  Work GitHub: [\[Your GitHub Profile URL\]](https://github.com/elhadj-Komvoy)
+
 
 ## **🌱 Learning & Growth**
 
