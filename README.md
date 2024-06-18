@@ -71,7 +71,7 @@ I'm always eager to learn and expand my skill set. Currently, I'm focusing on de
 
 ## **📫 Let's Connect**
 
-- LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/elhadjarroyo/)]
+- LinkedIn: https://www.linkedin.com/in/elhadjarroyo
 - Email: arroyostack@gmail.com
 - Portfolio: Bear with me for bit it need an update.
 
