@@ -58,7 +58,7 @@
     - Progressed from building WordPress sites to developing complex web applications using JavaScript and its ecosystem.
     - Collaborated with clients to deliver tailored, responsive, and user-friendly websites using HTML, CSS, and JavaScript.
     - Gained basic to intermediate backend development skills while leveraging React and Vue.js for dynamic user interfaces.
-  Work GitHub: [\[Your GitHub Profile URL\]](https://github.com/elhadj-Komvoy)
+  Work GitHub: [arroyostack](https://github.com/elhadj-Komvoy)
 
 
 ## **🌱 Learning & Growth**
